@@ -1,0 +1,16 @@
+.first_class {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.special_class{
+    font-size: 24px;
+}
+#first_id{
+    color: blue;
+    font-size: 36px;
+}
+#second_id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
